@@ -8,5 +8,5 @@ Livro Automação Inteligente de Processos de Negócio com n8n, IA e Agentes
 </a>
 <br>
 Esse livro conceitua, apresenta e principalmente demonstra através de estudos de caso práticos como entregar mais valor para as pessoas por meio da Automação Inteligente de Processos de Negócio com  n8n, IA e Agentes.
-<br>
+<br><br>
 Veja o conteúdo clicando <a href="https://github.com/Rildosan/Livro-Automacao-Inteligente-de-Processos-de-Negocio/wiki"><b>Aqui</b></a>
