@@ -1,11 +1,11 @@
 # Livro-Automacao-Inteligente-de-Processos-de-Negocio
 
 **Livro**<br> 
-Automação Inteligente de Processos de Negócio com n8n, IA e Agentes<br>
+**Automação Inteligente de Processos de Negócio com n8n, IA e Agentes**<br>
 Guia prático para transformar sua estratégia de BPM em resultados<br>
-Autor: Rildo Santos @rildosan<br>
-ISBN: 978-65-02-00997-0<br>
-Primeira edição 03/2026<br>
+Autor: **Rildo Santos @rildosan**<br>
+ISBN: **978-65-02-00997-0**<br>
+**Primeira edição - Março/2026**<br>
 <br>
 <capa do livro>
 <a href="https://github.com/Rildosan/Livro-Automacao-Inteligente-de-Processos-de-Negocio/wiki">
